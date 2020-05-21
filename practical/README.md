@@ -1,4 +1,5 @@
-# Project Title
+# QLSC612 Assessment
+
 
 This project is an assignment for the course QLSC612
 
