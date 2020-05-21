@@ -19,15 +19,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 Please clone this repo using
 
-Inline `$ git clone`
+ `$ git clone`
 
 Install all the required packages  
 
-Inline `$ pip install -r requirements.txt`
+ `$ pip install -r requirements.txt`
 
 If you wish you can install conda for easier access 
 
-Inline `$ pip install conda` 
+ `$ pip install conda` 
 
 ## Built With
 
