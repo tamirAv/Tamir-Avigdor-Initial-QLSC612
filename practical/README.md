@@ -4,7 +4,7 @@ This project is an assignment for the course QLSC612
 
 The project deals with the relation between brain size and IQ.
 
-The idea of the project is to demonstrate the ease in which o hacking can occur by the randomness of the data you happened to sample 
+The idea of the project is to demonstrate the ease in which P hacking can occur by the randomness of the data you happened to sample 
 
 This is done using a generation of specific "random" data that just so happen to produce specific results yet it is completely random and does not have any real connection to the data.
 This is shown later by using a different seed with the same analysis and showing that the results do not hold any more 
